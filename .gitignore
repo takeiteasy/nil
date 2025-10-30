@@ -1,0 +1,4 @@
+nimble.develop
+nimble.paths
+nil
+tests/test_lisp

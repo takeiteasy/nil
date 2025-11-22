@@ -1,4 +1,6 @@
-# nil
+# This project has moved
+
+[https://git.sr.ht/~takeiteasy/nil](https://git.sr.ht/~takeiteasy/nil)
 
 Nim Implementation of Lisp using Nim macros. `Nil` code is written in s-expressions and compiled to Nim at compile-time.
 
